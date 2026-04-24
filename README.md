@@ -13,7 +13,6 @@ const david = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davlm05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davlm05)
 </div>
 
----
 
 ## Tech Stack
 
@@ -46,16 +45,6 @@ const david = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=mssql&logoColor=white)
-
-</div>
-
-### AI Tools
-<div>
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=codex&logoColor=white)
 
 </div>
 
