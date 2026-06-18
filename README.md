@@ -7,7 +7,7 @@ const david = {
   university: "Instituto Tecnológico de Costa Rica",
   status    : "Currently studying",
   location  : "Costa Rica",
-  interests : ["Backend", "AI and LLMs", "APIs", "Databases"]
+  interests : ["Software Design", "AIs", "Databases"]
 };
 ```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davlm05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davlm05)
